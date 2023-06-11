@@ -11,7 +11,7 @@
 
 This little thing converts the lyrics synced data that I can't manage to learn how to scrape from Spotify and then creates a SRT file. However, it still can, pretty much, access the data and get it so it can perform its little task. There are two ways you can get this data as it's not available via API.
 
-Esta cosita convierte la información de las letras sincronizadas que no pude aprender a conseguir a la mala de spotify y crea un archivo SRT. Sin embargo, igual accesa a la información para hacer su tarea, aunque ahora es un 15% más engorroso. Hay dos formas de conseguirlo, porque no está disponible via spotify's official API.
+Esta cosita convierte la información de las letras sincronizadas que no pude aprender a conseguir a la mala de spotify y crea un archivo SRT. Sin embargo, igual accesa a la información para hacer su tarea, aunque ahora es un 15% más engorroso. Hay dos formas de conseguirlo, porque no está disponible por la API oficial de spotify.
 
 I will learn how to do this through the other way, just pasting spotify's song link, because I know I can do it, [but it is not this day](https://y.yarn.co/a4afb7c0-9e46-4264-a9c6-b21bb885a02c.mp4). 
 
